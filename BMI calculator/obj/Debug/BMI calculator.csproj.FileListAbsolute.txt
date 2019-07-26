@@ -1,0 +1,10 @@
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\bin\Debug\BMI calculator.exe.config
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\bin\Debug\BMI calculator.exe
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\bin\Debug\BMI calculator.pdb
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csprojAssemblyReference.cache
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.Properties.Resources.resources
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csproj.GenerateResource.cache
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\obj\Debug\BMI calculator.csproj.CoreCompileInputs.cache
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\obj\Debug\BMI calculator.exe
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\obj\Debug\BMI calculator.pdb
+D:\3rd semister\Comp123\windows form\BMI calculator\BMI calculator\obj\Debug\BMI_calculator.BMIFORM.resources
